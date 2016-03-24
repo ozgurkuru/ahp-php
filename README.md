@@ -1,4 +1,4 @@
 ahp-php
 =======
 
-Analytic Hierarchy Process
+Analytic Hierarchy Process system written by PHP
